@@ -1,4 +1,4 @@
-# 👾 HypixelApiTrackerA
+# 👾 HypixelApiTracker
 A Python script designed to monitor specific **Hypixel API** endpoints for changes and automatically send formatted notifications to a **Discord webhook**.
 
 ---
