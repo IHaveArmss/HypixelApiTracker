@@ -56,7 +56,7 @@ python fetchPush.py
 ## ⚙️ How It Works
 
 1. The script retrieves the UUID of the hardcoded player **"IHaveArms"** using the Mojang API.  
-2. It monitors selected Hypixel endpoints:
+2. It monitors Hypixel endpoints such as:
    - 📰 **Hypixel News**
    - 💰 **Bazaar Data**
 3. Every hour it:
